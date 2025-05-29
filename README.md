@@ -1,4 +1,4 @@
-# POiGK_labolatorium_1
+# POiGK_labolatorium_1_i_2
 Zadanie 1
 
 
@@ -18,3 +18,11 @@ Wprowadzone zmiany:
 
 
 Poległem na próbie obrotu pocisków razem ze statkiem i dodaniu muzyki :(
+
+
+Zadanie 2 
+
+![image](https://github.com/user-attachments/assets/5e6db447-bcfa-406c-babd-2897fcc86594)
+![image (1)](https://github.com/user-attachments/assets/5d19483f-78a9-4eb7-aece-d523dee1bd6c)
+![image (2)](https://github.com/user-attachments/assets/6997ed05-9991-487e-9aa5-eb6eda0a133a)
+![image (3)](https://github.com/user-attachments/assets/ad80e60a-d38f-43fb-9867-3a99341a2322)
